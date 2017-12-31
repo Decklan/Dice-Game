@@ -1,4 +1,4 @@
-# Dice-Game
+# Dice-Game using ES5 syntax but oh well
 A simple dice game I coded as part of a Javascript course I played around with.
 
 GAME RULES:
