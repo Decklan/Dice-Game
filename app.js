@@ -25,7 +25,7 @@ var scores, roundScore, activePlayer, lastRoll1, lastRoll2;
 var isPlaying;
 var winningScore;
 
-// Call resetGame() (line 48) to initialize game variables
+// Call resetGame() to initialize game variables
 resetGame();
 
 // Handles what needs to happen when a turn change occurs
